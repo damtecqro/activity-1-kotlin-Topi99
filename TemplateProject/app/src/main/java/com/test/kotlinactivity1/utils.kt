@@ -1,4 +1,4 @@
-package com.example.lab01
+package com.test.kotlinactivity1
 
 fun <T> assertThat(test: T, must: T, number: Int) {
     if (test != must) {

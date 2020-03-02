@@ -1,4 +1,4 @@
-package com.example.lab01
+package com.test.kotlinactivity1
 
 // Problem #13. Run-length encoding of a list (direct solution).
 
